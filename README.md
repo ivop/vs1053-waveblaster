@@ -1,4 +1,4 @@
-#VLSi SynthRoarer -- A vs1053-waveblaster module
+#VLSi SynthRoarer -- A vs1053/vs8053-waveblaster module
 -------------------------------------------------
 By using vs1053/vs8053 ,we present to you a ideal,low-cost,easy to solder,some what compact and hopefully fully opensouce WaveBlaster replacement.
 _________________________________________________
@@ -9,18 +9,26 @@ Introducing VLSi SynthRoarer.
 
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/vs1053-waveblaster-se-b.png?raw=true "bar")
 
+Notes
+------------------------
 It's been tested on a old ESS 688 audiodrive sound card.
 REV B and REV A is in gergber\old stable.7z
 REV C IS BASICALLY REV B,their schematic is the same.
+REV A = vs1053-waveblaster
+REV C = vs1053-waveblaster-se
 
+Pictures
+----------------------------
 Here's a view of it been fully assembled and not been.(I konw it says REV C,it's actually REV B)
 
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/pic/1641177433759971.jpg?raw=true "bar")
+*All value is prtinted onborad.
+
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/pic/1641220088942262.jpg?raw=true "bar")
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/pic/1641250700457883.jpg?raw=true "bar")
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/pic/1641295926145375.jpg?raw=true "bar")
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/pic/1641319182140166.jpg?raw=true "bar")
-*Look,it is on my soundcard.
+*Look,it is working on my soundcard.
 
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/pic/1641342934551617.jpg?raw=true "bar")
 *a.It is your choice to use crystal or oscillator.
@@ -31,6 +39,13 @@ Here's a view of it been fully assembled and not been.(I konw it says REV C,it's
 
 Check out another neat replcaement project: https://github.com/ivop/cs9236-waveblaster
 Original author's website:https://github.com/ivop
+
+What's next?
+------------------------------
+1.Fully SMT-ized?(Maybe REV D?)
+2.Get a logo?(Maybe REV D?)
+3.Write a bom list?(How about right now!)
+
 
 License
 -----------------

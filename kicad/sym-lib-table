@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name vs1053-waveblaster-rescue)(type Legacy)(uri ${KIPRJMOD}/vs1053-waveblaster-rescue.lib)(options "")(descr ""))
+  (lib (name vs1053)(type Legacy)(uri ${KIPRJMOD}/lib/vs1053.lib)(options "")(descr ""))
+  (lib (name lm1117-3)(type Legacy)(uri ${KIPRJMOD}/lib/lm1117-3.lib)(options "")(descr ""))
+  (lib (name waveblaster)(type Legacy)(uri ${KIPRJMOD}/lib/waveblaster.lib)(options "")(descr ""))
+  (lib (name osc5032)(type Legacy)(uri ${KIPRJMOD}/lib/osc5032.lib)(options "")(descr ""))
+)

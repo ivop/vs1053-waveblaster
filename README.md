@@ -5,7 +5,7 @@ _________________________________________________
 Introducing VLSi SynthRoarer.
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/vs1053-waveblaster-se.png?raw=true "bar")
 
-*Support General Midi with 128 GM1 instruments 61 GM2 Bnak 0 precussion sounds up to 64 note polyphony and stereo output @48Khz 16bit
+*Support General Midi with 128 GM1 instruments 61 GM2 Bank 0 precussion sounds up to 64 note polyphony and stereo output @48Khz 16bit
 
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/vs1053-waveblaster-se-b.png?raw=true "bar")
 

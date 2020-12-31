@@ -12,9 +12,13 @@ Introducing VLSi SynthRoarer.
 Notes
 ------------------------
 It's been tested on a old ESS 688 audiodrive sound card.
+
 REV B and REV A is in gergber\old stable.7z
+
 REV C IS BASICALLY REV B,their schematic is the same.
+
 REV A = vs1053-waveblaster
+
 REV C = vs1053-waveblaster-se
 
 Pictures
@@ -32,6 +36,7 @@ Here's a view of it been fully assembled and not been.(I konw it says REV C,it's
 
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/pic/1641342934551617.jpg?raw=true "bar")
 *a.It is your choice to use crystal or oscillator.
+
 *b.Both vs8053 and vs1053 can be used,there're no diffience being MIDI Dec.Just buy the cheapest one.
 
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/pic/1641373998009948.jpg?raw=true "bar")
@@ -43,7 +48,9 @@ Original author's website:https://github.com/ivop
 What's next?
 ------------------------------
 1.Fully SMT-ized?(Maybe REV D?)
+
 2.Get a logo?(Maybe REV D?)
+
 3.Write a bom list?(How about right now!)
 
 

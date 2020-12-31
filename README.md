@@ -9,6 +9,13 @@ Introducing VLSi SynthRoarer.
 
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/vs1053-waveblaster-se-b.png?raw=true "bar")
 
+How's it sound?
+--------------
+Here is a sample manufacture provides.
+
+http://www.vlsi.fi/fileadmin/software/VS10XX/vs1053mid.mp3
+
+
 Notes
 ------------------------
 It's been tested on a old ESS 688 audiodrive sound card.
@@ -40,6 +47,7 @@ Here's a view of it been fully assembled and not been.(I konw it says REV C,it's
 
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/pic/1641373998009948.jpg?raw=true "bar")
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/pic/1641273406661004.jpg?raw=true "bar")
+
 *All value is prtinted onborad.
 
 

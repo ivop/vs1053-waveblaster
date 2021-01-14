@@ -30,7 +30,7 @@ REV C = vs1053-waveblaster-se
 
 Pictures
 ----------------------------
-Here's a view of it been fully assembled and not been. (It says REV C, but it's actually REV B).
+Here's a view of it been fully assembled and not been. (It says REV A, but it's actually REV B).
 
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/pic/1641177433759971.jpg?raw=true "bar")
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/pic/1641220088942262.jpg?raw=true "bar")

@@ -1,6 +1,6 @@
 #VLSi SynthRoarer -- A vs1053/vs8053-waveblaster module
 -------------------------------------------------
-By using vs1053/vs8053 ,we present to you a ideal,low-cost,easy to solder,some what compact and hopefully fully opensouce WaveBlaster replacement.
+By using a vs1053/vs8053, we present to you an ideal, low-cost, easy to solder, some what compact and open souce WaveBlaster replacement.
 _________________________________________________
 Introducing VLSi SynthRoarer.
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/vs1053-waveblaster-se.png?raw=true "bar")
@@ -20,7 +20,7 @@ Notes
 ------------------------
 It's been tested on a old ESS 688 audiodrive sound card.
 
-REV B and REV A is in gergber\old stable.7z
+REV B and REV A is in gergber/old stable.7z
 
 REV C IS BASICALLY REV B,their schematic is the same.
 
@@ -30,7 +30,7 @@ REV C = vs1053-waveblaster-se
 
 Pictures
 ----------------------------
-Here's a view of it been fully assembled and not been.(I konw it says REV C,it's actually REV B)
+Here's a view of it been fully assembled and not been. (It says REV C, but it's actually REV B).
 
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/pic/1641177433759971.jpg?raw=true "bar")
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/pic/1641220088942262.jpg?raw=true "bar")
@@ -41,19 +41,17 @@ Here's a view of it been fully assembled and not been.(I konw it says REV C,it's
 
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/pic/1641342934551617.jpg?raw=true "bar")
 
-*a.It is your choice to use crystal or oscillator.
+*a. It is your choice to use crystal or oscillator.
 
-*b.Both vs8053 and vs1053 can be used,there're no diffience being MIDI Dec.Just buy the cheapest one.
+*b. Both vs8053 and vs1053 can be used. There're no diffience in the MIDI implementation. Just buy the cheapest one.
 
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/pic/1641373998009948.jpg?raw=true "bar")
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/pic/1641273406661004.jpg?raw=true "bar")
 
-*All value is prtinted onborad.
+*All values are printed on the silkscreen.
 
 
-Check out another neat replcaement project: https://github.com/ivop/cs9236-waveblaster
-
-Original author's website:https://github.com/ivop
+Check out another waveblaster project: https://github.com/ivop/cs9236-waveblaster
 
 What's next?
 ------------------------------

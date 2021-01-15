@@ -1,6 +1,6 @@
 #VLSi SynthRoarer -- A vs1053/vs8053-waveblaster module
 -------------------------------------------------
-By using a vs1053/vs8053, we present to you an ideal, low-cost, easy to solder, some what compact and open souce WaveBlaster replacement.
+By using a vs1053/vs8053, we present to you an ideal, low-cost, easy to solder, some what compact and open source WaveBlaster module.
 _________________________________________________
 Introducing VLSi SynthRoarer.
 ![foo](https://github.com/gtr3qq/vs1053-waveblaster/blob/master/kicad/vs1053-waveblaster-se.png?raw=true "bar")
